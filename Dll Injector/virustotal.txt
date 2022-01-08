@@ -1,0 +1,7 @@
+HEX_DEREF.exe			https://www.virustotal.com/gui/file/54baa0b9d6107e736830aeed18cbef3eabe5748150c084942c34f6c53b2c4680/detection
+BeaEngine_5.3.0.dll		https://www.virustotal.com/gui/file/8adf3bbaf35d33e82c31403e757703839bbad0532f0c24e0851ffdd41554a048/detection
+C5.dll				https://www.virustotal.com/gui/file/aa49f86ac682aadef1a2099e74696f8775704872e2e078e13f6c855336342962/detection
+System.Numerics.Vectors.dll	https://www.virustotal.com/gui/file/1d3ef8698281e7cf7371d1554afef5872b39f96c26da772210a33da041ba1183/detection
+VEHDebug-x86_64.dll		https://www.virustotal.com/gui/file/2d704951319ca1db82730cbe976e1919e96a2dc566295c442ad8faa646a88f10/detection
+
+Always download the updated version of the software on the official site of the software: https://hexderef.com
